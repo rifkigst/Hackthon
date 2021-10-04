@@ -1,6 +1,6 @@
 # About this Model
 
-Model yang dihasilkan pada pemodelan ini adalah hasil kombinasi teknik tunning hyperparameters dan ensemble machine learning algoritma <br>
+Model yang dihasilkan pada pemodelan ini adalah hasil kombinasi teknik tunning hyperparameters dan ensemble machine learning algoritma
 Algoritma yang digunakan adalah SVR, Lasso, Elastic, dan Ridge
 
 ## Installation Package
@@ -23,14 +23,14 @@ pip install lightgbm
 ```
 
 ## Structure Folders
+
 1. Dataset : Menyimpan dataset yang digunakan dalam proses pemodelan
-2. Output  : Menyimpan hasil output regresi
+2. Output : Menyimpan hasil output regresi
 
 ## Usage
 
 ```python
 
-# Run the main program (model.ipynb)
+# Run the main program (main.ipynb)
 
 ```
-
